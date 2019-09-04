@@ -1,5 +1,5 @@
 # Notepad
-Notepad - A simple "Notepad"
+English description is available on below japanese descriptions.
 # 説明
 シンプルなメモ帳を作りました。需要には触れないでください。**絶対**です。
 # 使い方
@@ -10,4 +10,16 @@ Notepad - A simple "Notepad"
 |許可|○|○|条件あり|○|×|×|
 
 |配布には LICENSE を Notepad.exe に含める必要があります。|
+|:-:|
+
+# Description
+I made simple Notepad. Do not touch to demand absolutely.
+# Usage
+Type the text on textbox. Can show the about, reset, cut, copy, paste, and save at buttons.
+# X11 License
+||Commercial use|Modification|Distribution|Private use|Liability|Warranty|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Accept|○|○|Require agree to conditions|○|×|×|
+
+|A copy of the "LICENSE" must be included with the Notepad.exe.|
 |:-:|
