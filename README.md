@@ -1,5 +1,5 @@
 # Notepad
-English description is available on below japanese descriptions.
+English description is available on below Japanese descriptions.
 # 説明
 シンプルなメモ帳を作りました。需要には触れないでください。**絶対**です。
 # 使い方
