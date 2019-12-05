@@ -1,7 +1,7 @@
 # Notepad
 English description is available on below Japanese descriptions.
 # 説明
-シンプルなメモ帳を作りました。需要には触れないでください。**絶対**です。
+シンプルなメモ帳を作りました。需要が迷子です。誰か探してください。
 # 使い方
 基本的にはでっかいテキストボックスに文字を入力します。</br>About で情報を表示、Reset でリセット、Cut で切り取り、Copy で書いた内容をコピー、Paste で貼り付け、Save で保存をボタンで出来ます。
 # MIT License
@@ -13,7 +13,7 @@ English description is available on below Japanese descriptions.
 |:-:|
 
 # Description
-I made simple Notepad. Do not touch to demand absolutely.
+I made simple Notepad. No demand.
 # Usage
 Type the text on textbox. Can show the about, reset, cut, copy, paste, and save at buttons.
 # X11 License
