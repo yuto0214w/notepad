@@ -1,5 +1,5 @@
 # Notepad
-English description is available on below Japanese descriptions.
+<img src="./assets/screenshot.png" alt="Screenshot"></br>English description is available on below Japanese descriptions.
 # 説明
 シンプルなメモ帳を作りました。需要が迷子です。誰か探してください。
 # 使い方
